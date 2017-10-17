@@ -1,0 +1,13 @@
+{
+    "name": "jack/framework",
+    "description": "homework #2",
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "chudniy",
+            "email": "evgeniychudniy@gmail.com"
+        }
+    ]
+}
