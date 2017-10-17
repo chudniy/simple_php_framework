@@ -2,7 +2,8 @@
     "name": "jack/framework",
     "description": "homework #2",
     "require": {
-        "phpunit/phpunit": "^6.4"
+        "phpunit/phpunit": "^6.4",
+        "symfony/http-foundation": "^3.3"
     },
     "authors": [
         {
