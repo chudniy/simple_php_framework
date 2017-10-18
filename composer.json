@@ -12,5 +12,8 @@
             "name": "chudniy",
             "email": "evgeniychudniy@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
 }
